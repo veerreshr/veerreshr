@@ -8,6 +8,4 @@
 - 😄 Pronouns: He/His
 - 📝 My blog @[dev](https://dev.to/veerreshr)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=veerreshr" alt="Anurag's github stats"/>
-</p>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=veerreshr)
