@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on price change indicator app for online shopping
-- 🌱 I’m currently doing my web development intern
+- 🌱 I’m currently doing my web development internship
 - 💬 Ask me about any tech related
 - 📫 How to reach me: [Twitter](https://twitter.com/corpuscle18)
 - 😄 Pronouns: He/His
