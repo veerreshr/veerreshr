@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Difference between Abstraction and Encapsulation in c++](https://dev.to/veerreshr/difference-between-abstraction-and-encapsulation-in-c-58op)
 - [Difference between Abstraction and Encapsulation in c++](https://blog.veereshr.me/difference-between-abstraction-and-encapsulation-in-c)
-- [SEO Tags | Meta tags that you need for previews on social networks.](https://dev.to/veerreshr/seo-tags-meta-tags-that-you-need-for-previews-on-social-networks-343n)
 - [SEO Tags | Meta tags that you need for previews on social networks.](https://blog.veereshr.me/seo-tags-or-meta-tags-that-you-need-for-previews-on-social-networks-1)
+- [Qute Bot GitHub Action](https://blog.veereshr.me/qute-bot-github-action)
+- [Deploy react app to GitHub pages with and without a custom domain](https://blog.veereshr.me/deploy-react-app-to-github-pages-with-and-without-a-custom-domain)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
