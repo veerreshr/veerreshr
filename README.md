@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **veerreshr@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LCr0MMnwf_PYVZSG4GfezNs9Wx8wNLmZ/view](https://drive.google.com/file/d/1LCr0MMnwf_PYVZSG4GfezNs9Wx8wNLmZ/view)
+- 📄 Resume @ [https://drive.google.com/file/d/1LCr0MMnwf_PYVZSG4GfezNs9Wx8wNLmZ/view](https://drive.google.com/file/d/1LCr0MMnwf_PYVZSG4GfezNs9Wx8wNLmZ/view)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
