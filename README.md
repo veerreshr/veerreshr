@@ -5,9 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/corpuscle18" target="blank"><img src="https://img.shields.io/twitter/follow/corpuscle18?logo=twitter&style=for-the-badge" alt="corpuscle18" /></a> </p>
 
+- 🎓 I’m a 3rd Year CSE Undergraduate student
+
 - 🌱 I’m currently learning **Machine learning**
 
-- 👨‍💻 All of my projects are available at [https://veereshr.me](https://veereshr.me)
+- 👨‍💻 All of my projects are available at [https://veereshr.me](https://veereshr.me) and [https://veereshr.me/moreprojects](https://veereshr.me/moreprojects)
 
 - 📝 I regularly write articles on [https://blog.veereshr.me](https://blog.veereshr.me)
 
