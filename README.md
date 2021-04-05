@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://veereshr.me](https://veereshr.me) and [https://veereshr.me/moreprojects](https://veereshr.me/moreprojects)
 
-- 📝 I regularly write articles on [https://blog.veereshr.me](https://blog.veereshr.me)
+- 📝 I write articles on [https://blog.veereshr.me](https://blog.veereshr.me)
 
 - 📫 How to reach me **veerreshr@gmail.com**
 
