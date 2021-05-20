@@ -3,8 +3,7 @@
 <h3 align="center">A passionate developer from India</h3>
 
 <p >I’m a 3rd Year CSE Undergraduate student 🎓. I do web developement and loves to explore other fields in computer science like IOT,Ml etc., I am currently learning machine learning and doing projects in it. 
-This is the webpage I designed to show case my work experience and skills.
- <li>You can access this webpage by visiting this link <a href="https://veereshr.netlify.app">veereshr.netlify.app</a></li>
+ <li>You can access my Portfolio page by visiting this link <a href="https://veereshr.netlify.app">veereshr.netlify.app</a></li>
  <li>More of my projects are displayed in a structured manner at <a href="https://veereshr.netlify.app/moreprojects">veereshr.netlify.app/moreprojects</a></li>
   <li> Reach out to me @ <a href="mailto:veerreshr@gmail.com">veerreshr@gmail.com</a> </li>
 
