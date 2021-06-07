@@ -13,10 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Native sensors that can be used within the web by default](https://blog.veereshr.me/native-sensors-that-can-be-used-within-the-web-by-default)
 - [Difference between Abstraction and Encapsulation in c++](https://blog.veereshr.me/difference-between-abstraction-and-encapsulation-in-c)
 - [SEO Tags | Meta tags that you need for previews on social networks.](https://blog.veereshr.me/seo-tags-or-meta-tags-that-you-need-for-previews-on-social-networks-1)
 - [Qute Bot GitHub Action](https://blog.veereshr.me/qute-bot-github-action)
-- [Deploy react app to GitHub pages with and without a custom domain](https://blog.veereshr.me/deploy-react-app-to-github-pages-with-and-without-a-custom-domain)
 <!-- BLOG-POST-LIST:END -->
 <br>
 <!-- Social--->
