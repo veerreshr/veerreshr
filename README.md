@@ -12,7 +12,7 @@
 <summary>Blog Posts</summary>
 
 <!-- BLOG-POST-LIST:START -->
-- [Encapsulation vs Abstraction](https://blog.veereshr.me/encapsulation-vs-abstraction)
+- [A Refresher on Encapsulation and Abstraction in OOPs](https://blog.veereshr.me/a-refresher-on-encapsulation-and-abstraction-in-oops)
 - [Functors! Not functions](https://blog.veereshr.me/functors-not-functions)
 - [Native sensors that can be used within the web by default](https://blog.veereshr.me/native-sensors-that-can-be-used-within-the-web-by-default)
 - [SEO Tags | Meta tags that you need for previews on social networks.](https://blog.veereshr.me/seo-tags-or-meta-tags-that-you-need-for-previews-on-social-networks-1)
