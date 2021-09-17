@@ -12,10 +12,10 @@
 <summary>Blog Posts</summary>
 
 <!-- BLOG-POST-LIST:START -->
-- [A Refresher on Encapsulation and Abstraction in OOPs](https://blog.veereshr.me/a-refresher-on-encapsulation-and-abstraction-in-oops)
-- [Functors! Not functions](https://blog.veereshr.me/functors-not-functions)
-- [Native sensors that can be used within the web by default](https://blog.veereshr.me/native-sensors-that-can-be-used-within-the-web-by-default)
-- [SEO Tags | Meta tags that you need for previews on social networks.](https://blog.veereshr.me/seo-tags-or-meta-tags-that-you-need-for-previews-on-social-networks-1)
+- [A Refresher on Encapsulation and Abstraction in OOPs](https://veeresh.hashnode.dev/a-refresher-on-encapsulation-and-abstraction-in-oops)
+- [Functors! Not functions](https://veeresh.hashnode.dev/functors-not-functions)
+- [Native sensors that can be used within the web by default](https://veeresh.hashnode.dev/native-sensors-that-can-be-used-within-the-web-by-default)
+- [SEO Tags | Meta tags that you need for previews on social networks.](https://veeresh.hashnode.dev/seo-tags-or-meta-tags-that-you-need-for-previews-on-social-networks-1)
 <!-- BLOG-POST-LIST:END -->
  
 </details>
