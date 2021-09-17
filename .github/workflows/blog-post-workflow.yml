@@ -20,4 +20,4 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "4"
-                feed_list: "https://blog.veereshr.me/rss.xml"
+                feed_list: "https://veeresh.hashnode.dev/rss.xml"
