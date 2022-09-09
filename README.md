@@ -1,20 +1,19 @@
-<!-- ![Cover](https://user-images.githubusercontent.com/59141533/127784809-df868c05-78b0-4b53-8d87-39bf74136d3a.png)
- -->
+![Cover](https://user-images.githubusercontent.com/59141533/127784809-df868c05-78b0-4b53-8d87-39bf74136d3a.png)
 # About Me
 
 ```json
 "Veeresh" : {
   "pronouns": "he","him",
   "education": "UnderGraduate",
-  "otherAlias": "Frontend Developer",
+  "otherAlias": ["Software Engineer", "Frontend Developer"],
   "currentlyWorkingOn": "Text2Face, A GANs based research on converting textual description into Faces",
-  "codesIn": ["Javascript", "HTML", "CSS", "Node.js", "React","Next.js", "Express.js", "C++", "Python"],
-  "currentlylearning": ["Solidity", "GANs"],
+  "codesIn": ["Typescript", "Javascript", "HTML", "CSS", "Node.js", "React","Next.js", "Express.js", "C++", "Python"],
+  "currentlylearning": ["Unreal Engine 5", "Mulesoft"],
   "email":"veerreshr@gmail.com",
   "blog":"https://veeresh.hashnode.dev/",
   "portfolio":"https://veereshr.netlify.app/",
   "resume":"https://drive.google.com/file/d/1BeDbYAJcnv2N-d_L1BDYk7hRPLJSO04Y/view?usp=sharing",
-  "availableForHire": true,
+  "availableForHire": false,
 }
 ```
 <!-- 
