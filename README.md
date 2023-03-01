@@ -29,11 +29,31 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=veerreshr&theme=default"/>
 </div> -->
 <details>
- <summary>Stats</summary>
- <img src="https://raw.githubusercontent.com/veerreshr/veerreshr/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt=""/>
- <img src="https://raw.githubusercontent.com/veerreshr/veerreshr/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt=""/>
- <img src="https://raw.githubusercontent.com/veerreshr/veerreshr/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt=""/>
- <img src="https://raw.githubusercontent.com/veerreshr/veerreshr/master/profile-summary-card-output/github_dark/3-stats.svg" alt=""/>
- <img src="https://raw.githubusercontent.com/veerreshr/veerreshr/master/profile-summary-card-output/github_dark/4-productive-time.svg" alt=""/>
+<summary>Stats</summary>
+    <br/>
+    <picture>
+      <source 
+        srcset="https://github-readme-stats-veerreshr.vercel.app/api?username=veerreshr&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats-veerreshr.vercel.app/api?username=veerreshr"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats-veerreshr.vercel.app/api?username=veerreshr" />
+  </picture>
+
+  <picture>
+    <source 
+      srcset="https://github-readme-stats-veerreshr.vercel.app/api/top-langs/?username=veerreshr&layout=compact&theme=dark&langs_count=8"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-veerreshr.vercel.app/api/top-langs/?username=veerreshr&layout=compact&langs_count=8"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats-veerreshr.vercel.app/api/top-langs/?username=veerreshr&layout=compact&langs_count=8" />
+</picture>
 </details>
+
 
