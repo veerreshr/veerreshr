@@ -14,7 +14,8 @@
   "portfolio(outdated)":"https://veereshr.netlify.app/",
   "resume(outdated)":"https://drive.google.com/file/d/1BeDbYAJcnv2N-d_L1BDYk7hRPLJSO04Y/view?usp=sharing",
   "publications":"https://ieeexplore.ieee.org/author/37089495075",
-  "availableForHire": true
+  "availableForHire": true,
+  "activelyLookingForHire":false
 }
 ```
 <!-- 
