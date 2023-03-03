@@ -4,16 +4,17 @@
 ```json
 "Veeresh" : {
   "pronouns": "he","him",
-  "education": "UnderGraduate",
+  "education": "Graduate(2022)(B.E in CSE)",
   "otherAlias": ["Software Engineer", "Frontend Developer"],
-  "currentlyWorkingOn": "Text2Face, A GANs based research on converting textual description into Faces",
-  "codesIn": ["Typescript", "Javascript", "HTML", "CSS", "Node.js", "React","Next.js", "Express.js", "C++", "Python"],
-  "currentlylearning": ["Unreal Engine 5", "Mulesoft"],
+  "currentlyWorkingOn": "Mulesoft, Angular",
+  "codesIn": ["Typescript", "Javascript", "Node.js", "React", "AngularJS", "Next.js", "Express.js", "C++", "MuleSoft(Java)"],
+  "currentlylearning": ["Unreal Engine 5", "GoLang"],
   "email":"veerreshr@gmail.com",
   "blog":"https://veeresh.hashnode.dev/",
-  "portfolio":"https://veereshr.netlify.app/",
-  "resume":"https://drive.google.com/file/d/1BeDbYAJcnv2N-d_L1BDYk7hRPLJSO04Y/view?usp=sharing",
-  "availableForHire": false,
+  "portfolio(outdated)":"https://veereshr.netlify.app/",
+  "resume(outdated)":"https://drive.google.com/file/d/1BeDbYAJcnv2N-d_L1BDYk7hRPLJSO04Y/view?usp=sharing",
+  "Publications":"https://ieeexplore.ieee.org/author/37089495075",
+  "availableForHire": true
 }
 ```
 <!-- 
@@ -54,6 +55,17 @@
     />
     <img src="https://github-readme-stats-veerreshr.vercel.app/api/top-langs/?username=veerreshr&layout=compact&langs_count=8" />
 </picture>
+  <a href="https://leetcode.com/veerreshr/">
+    <picture>
+      <source 
+        srcset="https://leetcard.jacoblin.cool/veerreshr?ext=heatmap&border=2&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://leetcard.jacoblin.cool/veerreshr?ext=heatmap&theme=light"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://leetcard.jacoblin.cool/veerreshr?ext=heatmap&theme=light" />
+  </picture>
+  </a>
 </details>
-
-
